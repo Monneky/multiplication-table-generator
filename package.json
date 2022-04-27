@@ -1,0 +1,19 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "Bases de node, imprimimos una tabla de multiplicar en un archivo txt y hacemos la integracion con yarn",
+  "main": "app.js",
+  "scripts": {
+    "base10": "node app.js --base=10"
+  },
+  "keywords": [
+    "Yarn",
+    "FileSystem"
+  ],
+  "author": "Ivann Llamas",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.4.1"
+  }
+}
