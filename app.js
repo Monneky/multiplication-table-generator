@@ -12,5 +12,5 @@ const [ , base = 5 ] = arg3.split( '=' );
 
 
 crearArchivo( yargs.b, yargs.l, yargs.h )
-	.then( nombreArchivo => console.log( nombreArchivo) )
+	.then( nombreArchivo => console.log( nombreArchivo ) )
 	.catch( err => console.log( err ) );
