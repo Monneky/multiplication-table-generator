@@ -15,7 +15,7 @@ const yargs = require( 'yargs' )
 	})
 	.option('h', {
 		alias: 'hasta',
-		demandOption: 'false', 
+		demandOption: false, 
 		default: 10,
 		type: 'number',
 		describe: 'up to which number we are going to multiply'
