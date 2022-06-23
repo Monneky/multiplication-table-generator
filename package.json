@@ -1,6 +1,6 @@
 {
   "name": "03-bases-node",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Bases de node, imprimimos una tabla de multiplicar en un archivo txt y hacemos la integracion con yarn",
   "main": "app.js",
   "scripts": {
